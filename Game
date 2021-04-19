@@ -1,0 +1,7 @@
+On.start run.image=(<img src="https://art.pixilart.com/c92085e91d246b9.png" alt="Pixilart - Start button.pixil by Shlavs"/>)
+On.click=start run.background=(<img src="https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?size=626&amp;ext=jpg" alt="Black Background Images | Free Vectors, Stock Photos &amp; PSD"/>)
+wait.2.3 seconds.generate
+after generate goTo chose username=hothead,toycar
+after goTo loading screen. wait=1.3 seconds=sec
+after loading screen load car body=(234) height=(342) width=(563)
+color=red
